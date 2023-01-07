@@ -1,0 +1,47 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+    padding: 15px 15px;
+    
+}
+
+form {
+    text-align: center;
+    padding: 15px 15px;
+    
+}
+
+ul {
+    padding: 15px;
+}
+
+li {
+    padding: 5px;
+    
+    
+}
+
+button {
+    border: solid 1px rgb(124, 122, 122);
+   
+}
+
+button:hover{
+    cursor: pointer;
+    transition: 2s;
+    background-color: aliceblue;
+}
+
+.cad:hover {
+    transition: 2s;
+    background-color: rgba(135, 236, 135, 0.562);
+}
